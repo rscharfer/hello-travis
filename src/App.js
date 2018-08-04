@@ -1,6 +1,8 @@
 import React from 'react';
 import './App.css';
 import styled from 'styled-components';
+
+
 const Wrapper = styled.section`
   padding: 4em;
   background: papayawhip;
@@ -13,7 +15,7 @@ export default () => (
 	      <h1 className="App-title">Welcome To My Hello World!</h1>
 	    </header>
 	    <p className="App-intro">
-	      Here is the updated wording.
+	     <iframe title="taking a show show" src="https://giphy.com/embed/mRvJKBHGhJFIc" width="480" height="266" frameBorder="0" className="giphy-embed" allowFullScreen></iframe>
 	    </p>
 	  </div>
   	</Wrapper>
