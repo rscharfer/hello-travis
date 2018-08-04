@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import styled from 'styled-components';
 const Wrapper = styled.section`
   padding: 4em;
   background: papayawhip;
