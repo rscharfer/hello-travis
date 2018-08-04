@@ -15,4 +15,4 @@ deploy:
   domain: scharfer.surge.sh
   project: ./build/
 on:
-  branch:master
+  condition: "$TRAVIS_TAG =~ ^v.*$"
