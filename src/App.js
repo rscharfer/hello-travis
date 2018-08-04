@@ -6,7 +6,7 @@ export default () => (
       <h1 className="App-title">Welcome To My Hello World!</h1>
     </header>
     <p className="App-intro">
-      My name is Ryan. Welcome, and hello!  This app is built and deployed by Travis. Thanks Travis!!
+      Travis, you are not going to delete the ENV variables I gave you are you?
     </p>
   </div>
 );
