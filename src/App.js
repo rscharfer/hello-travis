@@ -15,7 +15,7 @@ export default () => (
 	      <h1 className="App-title">Welcome To My Hello World!</h1>
 	    </header>
 	    <p className="App-intro">
-	     <iframe src="https://giphy.com/embed/mRvJKBHGhJFIc" width="480" height="266" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sing-problem-shower-mRvJKBHGhJFIc">via GIPHY</a></p>
+	     <iframe title="taking a show show" src="https://giphy.com/embed/mRvJKBHGhJFIc" width="480" height="266" frameBorder="0" className="giphy-embed" allowFullScreen></iframe>
 	    </p>
 	  </div>
   	</Wrapper>
