@@ -13,7 +13,7 @@ export default () => (
 	      <h1 className="App-title">Welcome To My Hello World!</h1>
 	    </header>
 	    <p className="App-intro">
-	      last change before I run. i promise.
+	      Here is the updated wording.
 	    </p>
 	  </div>
   	</Wrapper>
