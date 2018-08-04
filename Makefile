@@ -1,2 +1,2 @@
 create_github_status:
-	pending.sh
+	./pending.sh
